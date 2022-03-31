@@ -1,4 +1,4 @@
-## Selecione o Idioma: | [Portugués](README.md) | [Inglés](README_en.md)  | ** Español ** |
+## Selecione o Idioma: | [Portugués](README.md) | [Inglés](README_en.md)  | Español |
 
 
 

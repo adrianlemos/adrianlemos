@@ -1,5 +1,5 @@
 
-## Selecione o Idioma: | ** Português ** | [Inglês](README_en.md) | [Espanhol](README_es.md) |
+## Selecione o Idioma: | Português | [Inglês](README_en.md) | [Espanhol](README_es.md) |
 
 
 
