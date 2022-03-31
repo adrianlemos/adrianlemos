@@ -1,7 +1,7 @@
 ## Selecione o Idioma: | [Portuguese](README.md) | English | [Spanish](README_es.md) |
 
 
-## Who I'm
+## Who am I
 
 I'm Brazilian, electronic technician since 2011, I love the area since long before that, I'm self-taught and I usually learn things on my own, with that I've learned from creation and development of Printed Circuit Boards to recording and editing videos and audios, among other things.
 
