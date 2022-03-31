@@ -3,27 +3,25 @@
 
 ## Who I'm
 
-Sou Brasileiro, formado técnico em eletrônica desde 2011 porem amo a área desde muito antes disso, Sou Autodidata e costumo aprender as coisas por conta própria, com isso já aprendi de criação e desenvolvimento de Placas de Circuito impresso até gravação e edição de vídeos e áudios.
+I'm Brazilian, electronic technician since 2011, I love the area since long before that, I'm self-taught and I usually learn things on my own, with that I've learned from creation and development of Printed Circuit Boards to recording and editing videos and audios, among other things.
 
-Sou criador junto com os Amigos Roger Marinque e Guilherme Andrade do podcast sobre o assunto técnico em eletrônica chamado Volt Ampere que você pode acessar aqui, onde tentamos devolver um pouco de tudo que aprendemos com a comunidade.
+Together with my friends Roger Marinque and Guilherme Andrade, We are create the podcast Volt Ampere about technical electronics matters, which you can access [here](https://voltamperepod.com/), where we try to give back a little of everything we learned with the community.
 
-Sou um apaixonado pelo mundo maker e opensource desde 2004 quando tive contato pela primeira vez com a comunidade GNU/Linux.
+I'm passionate about the maker and opensource world since 2004 when I first had contact with the GNU/Linux community.
 
-Meu aprendizado do inglês foi quase todo feito como autodidata, fiz bem pouco tempo em escolas de idiomas, porém a maior parte foi via Duolingo, Vídeos, Leitura de artigos sobre eletrônica.
+My English learning was almost entirely self-taught, I spent very little time in language schools, but most of it was via Duolingo, Videos, Reading electronics article.
 
 
 ## Languages
 
-* Português - Nativo
-* Inglês - Intermediario - Leitura e Escrita.
-* Espanhol - Intermediario - Escuta e Pronuncia.
+* Portuguese - Native
+* English - Intermediary - Reading and writing.
+* Spanish - Intermediary - Listen and pronunciation.
 
 
 ## Wish
 
-Desejo retrubir para a comunidade um pouco de tudo que já aprendi, um ponto que acho importante é que meus projetos sempre estaram primeiramente formatados em portugues, mas sempre irei tentar traduzi-los para o Inglês e o Espanhol tornando os projetos mais acessiveis a comunidade internacional.
-
-
+I want to give back to the community a little of everything I've learned, a point that I think is important is that my projects have always been formatted in Portuguese, but I will always try to translate them into English and Spanish, making the projects more accessible to the international community. 
 
 ## Social Media
 

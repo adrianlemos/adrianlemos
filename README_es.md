@@ -1,15 +1,17 @@
 ## Selecione o Idioma: | [Portugués](README.md) | [Inglés](README_en.md)  | Español |
 
 
-## Quem Sou
+## ¿Quien soy?
 
-Sou Brasileiro, formado técnico em eletrônica desde 2011 porem amo a área desde muito antes disso, Sou Autodidata e costumo aprender as coisas por conta própria, com isso já aprendi de criação e desenvolvimento de Placas de Circuito impresso até gravação e edição de vídeos e áudios.
+Soy brasileño, me formé en electrónica desde 2011, pero amo la área desde mucho antes, soy autodidacta y generalmente aprendo cosas por mi cuenta, con eso aprendí de la creación y desarrollo de placas de circuito impreso. hasta la grabación y edición de videos y audios.
 
-Sou criador junto com os Amigos Roger Marinque e Guilherme Andrade do podcast sobre o assunto técnico em eletrônica chamado Volt Ampere que você pode acessar aqui, onde tentamos devolver um pouco de tudo que aprendemos com a comunidade.
 
-Sou um apaixonado pelo mundo maker e opensource desde 2004 quando tive contato pela primeira vez com a comunidade GNU/Linux.
+Junto con mis amigos Roger Marinque y Guilherme Andrade, nosostros creamos el podcast Volt Ampere sobre el tema técnico en electrónica, al cual puedes acceder [aquí](https://voltamperepod.com/), donde tratamos de devolver un poco de todo lo aprendido con la comunidad.
 
-Meu aprendizado do inglês foi quase todo feito como autodidata, fiz bem pouco tempo em escolas de idiomas, porém a maior parte foi via Duolingo, Vídeos, Leitura de artigos sobre eletrônica.
+
+Me apasiona el mundo maker y open source desde 2004 cuando tuve contacto por primera vez con la comunidad GNU/Linux.
+
+Mi aprendizaje de inglés fue casi en su totalidad autodidacta, pasé muy poco tiempo en escuelas de idiomas, pero la mayor parte fue a través de Duolingo, Videos, Lectura de artículos sobre electrónica.
 
 
 ## Idiomas
@@ -19,13 +21,13 @@ Meu aprendizado do inglês foi quase todo feito como autodidata, fiz bem pouco t
 * Espanhol - Intermediario - Escuta e Pronuncia.
 
 
-## Desejos
+## Deseos
 
-Desejo retrubir para a comunidade um pouco de tudo que já aprendi, um ponto que acho importante é que meus projetos sempre estaram primeiramente formatados em portugues, mas sempre irei tentar traduzi-los para o Inglês e o Espanhol tornando os projetos mais acessiveis a comunidade internacional.
+Quiero devolver a la comunidad un poco de todo lo que aprendí, un punto que creo importante es que mis proyectos siempre han sido formateados en portugués, pero siempre intentaré traducirlos al inglés y al español, haciendo que los proyectos sean más accesibles a la comunidad internacional.
 
 
 
-## Redes Sociais
+## Redes sociales
 
 <p align='center'>
 	<a href="https://www.linkedin.com/in/adrian-bento-lemos-2bb76036" target="_blank"><img height="30" src="./images/linkedin.png"> </a>&nbsp;&nbsp;

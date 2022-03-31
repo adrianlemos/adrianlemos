@@ -15,8 +15,8 @@ Meu aprendizado do inglês foi quase todo feito como autodidata, fiz bem pouco t
 ## Idiomas
 
 * Português - Nativo
-* Inglês - Intermediario - Leitura e Escrita.
-* Espanhol - Intermediario - Escuta e Pronuncia.
+* Inglês - Intermediario - Leitura e escrita.
+* Espanhol - Intermediario - Escuta e pronuncia.
 
 
 ## Desejos
