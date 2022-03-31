@@ -3,11 +3,14 @@
 
 ## Quem Sou
 
-Sou formado técnico em eletronica desde 2011 porem amo a area desde muito antes disso, Sou Autodidata e costumo aprender as coisas por conta propria, com isso já aprendi de criação e desenvolvimento de Placas de Circuito impresso até gravação e edição de videos e audios.
+Sou Brasileiro, formado técnico em eletrônica desde 2011 porem amo a área desde muito antes disso, Sou Autodidata e costumo aprender as coisas por conta própria, com isso já aprendi de criação e desenvolvimento de Placas de Circuito impresso até gravação e edição de vídeos e áudios.
 
-Sou criador junto com os Amiigos Roger Marinque e Guilherme Andrade do podcast sobre o assunto técnico em eletroncia chamado Volt Ampere, onde tentamos devolver um pouco de tudo que aprendemos com a comunidade.
+Sou criador junto com os Amigos Roger Marinque e Guilherme Andrade do podcast sobre o assunto técnico em eletrônica chamado Volt Ampere que você pode acessar [aqui](https://voltamperepod.com/), onde tentamos devolver um pouco de tudo que aprendemos com a comunidade.
 
 Sou um apaixonado pelo mundo maker e opensource desde 2004 quando tive contato pela primeira vez com a comunidade GNU/Linux.
+
+Meu aprendizado do inglês foi quase todo feito como autodidata, fiz bem pouco tempo em escolas de idiomas, porém a maior parte foi via Duolingo, Vídeos, Leitura de artigos sobre eletrônica.
+
 
 ## Idiomas
 
@@ -16,8 +19,10 @@ Sou um apaixonado pelo mundo maker e opensource desde 2004 quando tive contato p
 * Espanhol - Intermediario - Escuta e Pronuncia.
 
 
-
 ## Desejos
+
+Desejo retrubir para a comunidade um pouco de tudo que já aprendi, um ponto que acho importante é que meus projetos sempre estaram primeiramente formatados em portugues, mas sempre irei tentar traduzi-los para o Inglês e o Espanhol tornando os projetos mais acessiveis a comunidade internacional.
+
 
 
 ## Redes Sociais
