@@ -1,20 +1,20 @@
 ## Selecione o Idioma: | Português | [Inglês](README_en.md) | [Espanhol](README_es.md) |
 
 
+## Quem Sou
 
-### Portugues 👋
 
-<!--
-**adrianlemos/adrianlemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Desejos
+
+
+## Redes Sociais
+
+<p align='center'>
+	<a href="https://www.linkedin.com/in/adrian-bento-lemos-2bb76036" target="_blank"><img height="30" src="./images/linkedin.png"> </a>&nbsp;&nbsp;
+
+
+
+</p>
+
